@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("hello React"),console.log("inside func1"),console.log("inside func2")})();
