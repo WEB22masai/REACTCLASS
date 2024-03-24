@@ -20,6 +20,7 @@ function App() {
       } else {
         setError('Invalid pincode');
       }
+      
     } catch (error) {
       setError('Error fetching data');
     } finally {
